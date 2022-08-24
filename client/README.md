@@ -6,14 +6,20 @@ Create a web application to book an appointment with a legal advisor.
  
 # Clients should be able to:
 Log in to the application (preferably using Google Single Sign-on)
+
 See the available times and book an appointment
+
 Manage appointment - change/delete
+
 Send and receive messages with the advisor (not chat, but a simple email like an in-app message)
  
 # The advisor should be able to:
 Login
+
 Set available date and time
+
 See upcoming appointments
+
 Send and receive messages with the clients
 
 ## Available Scripts
